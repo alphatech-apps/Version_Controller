@@ -10,6 +10,9 @@ Version controller for all my libraries
 
 
 
+	        implementation 'com.github.alphatech-apps:CodeView:Tag'
+[![](https://jitpack.io/v/alphatech-apps/CodeView.svg)](https://jitpack.io/#alphatech-apps/CodeView)
+
 
 	        implementation 'com.github.alphatech-apps:ExitDialog:Tag'
 [![](https://jitpack.io/v/alphatech-apps/ExitDialog.svg)](https://jitpack.io/#alphatech-apps/ExitDialog)
@@ -19,15 +22,28 @@ Version controller for all my libraries
 [![](https://jitpack.io/v/alphatech-apps/PlayStoreMain.svg)](https://jitpack.io/#alphatech-apps/PlayStoreMain)
 
 
+        implementation 'com.github.alphatech-apps:PlayStore_PlayShop:Tag'
+[![](https://jitpack.io/v/alphatech-apps/PlayStore_PlayShop.svg)](https://jitpack.io/#alphatech-apps/PlayStore_PlayShop)
 
 
+	        implementation 'com.github.alphatech-apps:Androidx_Preference_V2:Tag'
+[![](https://jitpack.io/v/alphatech-apps/Androidx_Preference_V2.svg)](https://jitpack.io/#alphatech-apps/Androidx_Preference_V2)
 
 
+	        implementation 'com.github.alphatech-apps:Pref:Tag'
+[![](https://jitpack.io/v/alphatech-apps/Pref.svg)](https://jitpack.io/#alphatech-apps/Pref)
 
 
+	        implementation 'com.github.alphatech-apps:ColorPicker:Tag'
+[![](https://jitpack.io/v/alphatech-apps/ColorPicker.svg)](https://jitpack.io/#alphatech-apps/ColorPicker)
 
 
+	        implementation 'com.github.alphatech-apps:CustomDialog-Singleitem:Tag'
+[![](https://jitpack.io/v/alphatech-apps/CustomDialog-Singleitem.svg)](https://jitpack.io/#alphatech-apps/CustomDialog-Singleitem)
 
+
+	        implementation 'com.github.alphatech-apps:Permissions_V2:Tag'
+[![](https://jitpack.io/v/alphatech-apps/Permissions_V2.svg)](https://jitpack.io/#alphatech-apps/Permissions_V2)
 
 
 
