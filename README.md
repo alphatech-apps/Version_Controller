@@ -1,6 +1,13 @@
 # Version_Controller
 Version controller for all my libraries
 
+
+			implementation 'com.github.alphatech-apps:Permissions_V2_StorageNotification:Tag'
+[![](https://jitpack.io/v/alphatech-apps/Permissions_V2_StorageNotification.svg)](https://jitpack.io/#alphatech-apps/Permissions_V2_StorageNotification)
+
+	        implementation 'com.github.alphatech-apps:Permissions_V2_Notification:Tag'
+[![](https://jitpack.io/v/alphatech-apps/Permissions_V2_Notification.svg)](https://jitpack.io/#alphatech-apps/Permissions_V2_Notification)
+
 	        implementation 'com.github.alphatech-apps:Permissions_V2_StorageFile:Tag'
 [![](https://jitpack.io/v/alphatech-apps/Permissions_V2_StorageFile.svg)](https://jitpack.io/#alphatech-apps/Permissions_V2_StorageFile)
 
