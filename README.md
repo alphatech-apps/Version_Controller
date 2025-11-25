@@ -2,6 +2,9 @@
 Version controller for all my libraries
 
 
+				        implementation 'com.github.alphatech-apps:FastScroll:Tag'
+[![](https://jitpack.io/v/alphatech-apps/FastScroll.svg)](https://jitpack.io/#alphatech-apps/FastScroll)
+
 			implementation 'com.github.alphatech-apps:Permissions_V2_StorageNotification:Tag'
 [![](https://jitpack.io/v/alphatech-apps/Permissions_V2_StorageNotification.svg)](https://jitpack.io/#alphatech-apps/Permissions_V2_StorageNotification)
 
