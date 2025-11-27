@@ -2,6 +2,9 @@
 Version controller for all my libraries
 
 
+    implementation 'com.github.alphatech-apps:FileHelper_Pro:Tag'
+[![](https://jitpack.io/v/alphatech-apps/FileHelper_Pro.svg)](https://jitpack.io/#alphatech-apps/FileHelper_Pro)
+
 				        implementation 'com.github.alphatech-apps:DragSelect:Tag'
 [![](https://jitpack.io/v/alphatech-apps/DragSelect.svg)](https://jitpack.io/#alphatech-apps/DragSelect)
 
